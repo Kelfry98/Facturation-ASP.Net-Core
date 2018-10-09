@@ -1,0 +1,6 @@
+C:\Users\Always\Desktop\spa\Api\Persistence\bin\Debug\netcoreapp2.0\Persistence.deps.json
+C:\Users\Always\Desktop\spa\Api\Persistence\bin\Debug\netcoreapp2.0\Persistence.dll
+C:\Users\Always\Desktop\spa\Api\Persistence\obj\Debug\netcoreapp2.0\Persistence.csprojAssemblyReference.cache
+C:\Users\Always\Desktop\spa\Api\Persistence\obj\Debug\netcoreapp2.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Always\Desktop\spa\Api\Persistence\obj\Debug\netcoreapp2.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\Always\Desktop\spa\Api\Persistence\obj\Debug\netcoreapp2.0\Persistence.AssemblyInfo.cs
